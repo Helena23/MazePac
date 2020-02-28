@@ -62,3 +62,6 @@ Certo um dia o Sarah estava estudando para prova de sua escola. Quando durante v
 
 11. Cronograma: 
     * Descrição detalhada do cronograma de desenvolvimento; 
+
+Contribuição: 
+* Helena Vieira
